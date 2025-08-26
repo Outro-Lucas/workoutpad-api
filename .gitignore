@@ -1,4 +1,3 @@
-# Adicione estas linhas ao .gitignore
 dist/
 node_modules/
 .env
